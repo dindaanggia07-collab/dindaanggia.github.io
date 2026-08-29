@@ -1,0 +1,14 @@
+*{
+    background: hsl(46, 100%, 85%);
+    text-align: center;
+}
+#cookies div{
+    background-image: url('assets/bagian2.jpeg');
+    bottom: 0;
+    height: 100px; 
+}
+
+img{
+    width: 80%;
+    height: auto;
+}
